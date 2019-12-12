@@ -11,19 +11,19 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>https://github.com/owenstar/powermate/raw/master/powermate.ipa</string>
+                    <string>http://firmware.orvibo.com/ios/oem_powermate/HomeMate.ipa</string>
                 </dict>
                 <dict>
                     <key>kind</key>
                     <string>display-image</string>
                     <key>url</key>
-                    <string>https://github.com/owenstar/powermate/raw/master/57.png</string>
+                    <string>http://firmware.orvibo.com/ios/oem_powermate/57.png</string>
                 </dict>
                 <dict>
                     <key>kind</key>
                     <string>full-size-image</string>
                     <key>url</key>
-                    <string>https://github.com/owenstar/powermate/raw/master/512.png</string>
+                    <string>http://firmware.orvibo.com/ios/oem_powermate/512.png</string>
                 </dict>
             </array>
             <key>metadata</key>
