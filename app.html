@@ -22,6 +22,19 @@
             text-align: center;
         }
 
+        .tip{
+            padding-top: 30px;
+            width: 100%;
+            text-align: center;
+        }
+
+        .tip h4{
+            color: gray;
+            font-size: 15px;
+            width: 70%;
+            margin: 0px auto;
+        }
+
         .load{
             margin-top: 20px;
             width: 100%;
@@ -30,6 +43,7 @@
             border-radius:20px;
             text-align:center;
         }
+
 
         .load a{
             background-color: brown;
@@ -56,6 +70,11 @@
     <div class="page">
         <div class='icon'>
             <img src="data:image/png;base64,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" alt="" >
+        </div>
+        <div class="tip">
+            <h4 align="left">Installation instructions:<br>
+                1. Click the installation button<br>
+                2. Follow the pictures below in turn<br></h4>
         </div>
         <div class='load'>
             <a href="tms-services://?action=download-manifest&url=https://gitee.com/AlicWang/HostDiscovery/raw/master/powermate.plist">Start the installation</a>
